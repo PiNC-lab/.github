@@ -29,7 +29,7 @@ Our work aims to develop nature-based solutions that are financially viable, inc
 📚 **[Projects](https://www.pinclab.co.za/projects)**
 👥 **[Team](https://www.pinclab.co.za/team)**
 💼 **[Opportunities](https://www.pinclab.co.za/opportunities)**
-📖 **[Lab Manual](https://pinc-lab.github.io)**: tutorials and how-tos
+📖 **[Lab Manual](https://pinc-lab.github.io)**
 
 > **An Africa where people benefit from nature & nature benefits from people.**
 
